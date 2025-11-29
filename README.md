@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🖼️ Serverless Image Resizing Pipeline
+#  Serverless Image Resizing Pipeline
 
 <img src="https://compote.slate.com/images/2119ff95-86f2-4546-a8fd-7b70ec58c9c6.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=370" alt="AWS Serverless" width="600"/>
 
