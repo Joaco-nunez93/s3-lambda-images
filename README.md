@@ -1,4 +1,4 @@
-![Serverless Image Processing](https://compote.slate.com/images/2119ff95-86f2-4546-a8fd-7b70ec58c9c6.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=370)
+![Serverless Image Processing]([https://compote.slate.com/images/2119ff95-86f2-4546-a8fd-7b70ec58c9c6.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=370](https://industrial.softing.com/fileadmin/sof-files/img/ia/visuals/AWS_Quick_Start/Banner_AWS_2000x600px.jpg))
 
 Proyecto serverless construido con **AWS CDK (Cloud Development Kit)** que implementa un pipeline automático de procesamiento de imágenes utilizando **Amazon S3**, **AWS Lambda**, y la librería **Sharp** para redimensionamiento de imágenes.
 
