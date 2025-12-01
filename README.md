@@ -17,7 +17,7 @@
 
 ## 📋 Overview
 
-Este repositorio contiene un proyecto educativo que demuestra cómo construir un sistema serverless de procesamiento de imágenes en AWS utilizando Infrastructure as Code (IaC) con CDK. El proyecto implementa un patrón event-driven donde las imágenes subidas a un bucket S3 son automáticamente procesadas y redimensionadas por una función Lambda.
+Este repositorio contiene un proyecto en el cual se construye un sistema serverless de procesamiento de imágenes en AWS utilizando Infrastructure as Code (IaC) con CDK. El proyecto implementa un patrón event-driven donde las imágenes subidas a un bucket S3 son automáticamente procesadas y redimensionadas por una función Lambda.
 
 **Flujo de trabajo:**
 1. Usuario sube una imagen `.jpeg` al bucket de origen
